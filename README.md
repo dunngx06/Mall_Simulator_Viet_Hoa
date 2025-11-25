@@ -1,51 +1,58 @@
-# 🏪 Mall Simulator Việt Hóa
+# Mall Simulator - Gói Ngôn Ngữ Việt Hóa Tiếng Việt
 
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/dunngx06/Mall_Simulator_Viet_Hoa?color=green&label=Download)](https://github.com/dunngx06/Mall_Simulator_Viet_Hoa/archive/refs/heads/main.zip)
-![Status](https://img.shields.io/badge/Trạng_Thái-Hoàn_Thành-blue)
-![Language](https://img.shields.io/badge/Ngôn_Ngữ-Tiếng_Việt-red)
-
-Chào mừng bạn! Đây là kho lưu trữ bản **Việt hóa Mall Simulator** - tựa game mô phỏng quản lý trung tâm thương mại. Dự án này được thực hiện nhằm giúp cộng đồng game thủ Việt trải nghiệm game dễ dàng hơn.
+**Phiên bản:** 1.0  
+**Tác giả:** lunggtung  
+**Trạng thái:** Đã kiểm tra hoạt động (Verified)
 
 ---
 
-## ✨ Nội Dung Việt Hóa
-* ✅ **Giao diện (UI):** Menu chính, Cài đặt, Ngân hàng, Bảng thống kê, Tablet quản lý.
-* ✅ **Vật phẩm:** Tên và mô tả của hơn 500+ sản phẩm (Quần áo, Đồ chơi, Thực phẩm, Trang sức...).
-* ✅ **Hệ thống:** Nhiệm vụ hướng dẫn (Tutorial), Máy ATM, Máy bán hàng tự động.
-* ✅ **Hiển thị:** Font chữ chuẩn tiếng Việt, không lỗi ô vuông.
+### 📖 Giới Thiệu
+Đây là bản Việt hóa cộng đồng cho tựa game **Mall Simulator**. Dự án được thực hiện nhằm xóa bỏ rào cản ngôn ngữ, giúp người chơi Việt Nam dễ dàng tiếp cận các cơ chế quản lý phức tạp trong game.
+
+> **Lưu ý:** Bản dịch này không thay đổi mã nguồn gốc của game (gameplay), chỉ thay thế hiển thị ngôn ngữ.
 
 ---
 
-## 📥 Tải Về (Download)
+### ⬇️ Tải Về (Download)
 
-Bạn hãy bấm vào liên kết bên dưới để tải bản cài đặt mới nhất (đã đóng gói sẵn):
+Bạn có thể tải xuống gói cài đặt tự động đóng gói từ mã nguồn mới nhất tại đây:
 
-### 👉 [TẢI VỀ NGAY (File ZIP)](https://github.com/dunngx06/Mall_Simulator_Viet_Hoa/archive/refs/heads/main.zip)
-
----
-
-## ⚙️ Hướng Dẫn Cài Đặt (Kéo & Thả)
-
-Chúng tôi đã thiết lập sẵn cấu trúc thư mục chuẩn, bạn chỉ cần làm 3 bước đơn giản:
-
-1.  **Giải nén:** Tải file `.zip` ở trên về và giải nén ra. Bạn sẽ thấy một thư mục tên là `Mall Simulator_Data`.
-2.  **Mở thư mục game:**
-    * Vào Steam -> Chuột phải game **Mall Simulator** -> *Manage* -> *Browse local files*.
-    * (Hoặc tìm đường dẫn cài game trên máy của bạn).
-3.  **Cài đặt:**
-    * Kéo thư mục `Mall Simulator_Data` (vừa giải nén) thả thẳng vào thư mục cài game.
-    * Khi máy tính hỏi "Replace or Skip files?", hãy chọn **Replace the files in the destination** (Ghi đè).
-
-**Xong!** Giờ bạn chỉ cần vào game và thưởng thức tiếng Việt.
+> **[BẤM ĐỂ TẢI VỀ (Mall_Simulator_Viet_Hoa.zip)](https://github.com/dunngx06/Mall_Simulator_Viet_Hoa/archive/refs/heads/main.zip)**
 
 ---
 
-## ⚠️ Lưu Ý
-* **Sao lưu:** Nếu cẩn thận, hãy copy thư mục `StreamingAssets` gốc trong game ra chỗ khác trước khi cài.
-* **Cập nhật:** Nếu game có bản update mới trên Steam, bản Việt hóa có thể bị mất. Bạn chỉ cần quay lại đây tải và cài lại.
+### ✅ Tính Năng Bản Dịch
 
-## 🤝 Báo Lỗi
-Dự án được thực hiện bởi **dunngx06**.
-Nếu bạn thấy có chỗ nào dịch chưa chuẩn hoặc bị lỗi, vui lòng tạo **[Issue](https://github.com/dunngx06/Mall_Simulator_Viet_Hoa/issues)** để mình sửa nhé.
+| Hạng Mục | Trạng Thái | Chi Tiết |
+| :--- | :---: | :--- |
+| **Giao diện (UI)** | 100% | Menu chính, Cài đặt, Tablet quản lý, Ngân hàng. |
+| **Vật phẩm** | 100% | Hơn 500+ tên sản phẩm (Quần áo, Đồ ăn, Nội thất...). |
+| **Hệ thống** | 100% | Nhiệm vụ hướng dẫn (Tutorial), Thông báo hệ thống. |
+| **Font chữ** | Tốt | Hiển thị tiếng Việt có dấu rõ ràng, không lỗi font. |
 
-**Chúc các bạn chơi game vui vẻ!**
+---
+
+### 🛠️ Hướng Dẫn Cài Đặt
+
+Chúng tôi đã tối ưu hóa quy trình cài đặt. Bạn chỉ cần thực hiện thao tác **Copy & Paste**.
+
+**Bước 1:** Tải file `.zip` ở trên về và giải nén. Bạn sẽ nhận được thư mục:
+`Mall Simulator_Data`
+
+**Bước 2:** Truy cập thư mục cài đặt game gốc trên máy tính của bạn.
+* *Gợi ý đường dẫn mặc định của Steam:*
+`C:\Program Files (x86)\Steam\steamapps\common\Mall Simulator\`
+
+**Bước 3:** Cài đặt bản Việt hóa.
+* Kéo thả thư mục `Mall Simulator_Data` (đã giải nén ở Bước 1) vào thư mục game (đã mở ở Bước 2).
+* Hệ thống sẽ hỏi xác nhận ghi đè. Chọn **Replace the files in the destination**.
+
+---
+
+### ⚠️ Khắc Phục Sự Cố & Báo Lỗi
+
+* **Game cập nhật mất tiếng Việt?** -> Hãy quay lại đây tải và cài đặt lại.
+* **Gặp lỗi dịch thuật/hiển thị?** -> Vui lòng tạo một [Issue mới tại đây](https://github.com/dunngx06/Mall_Simulator_Viet_Hoa/issues) để báo cáo.
+
+---
+*Dự án được thực hiện phi lợi nhuận. Chúc các bạn chơi game vui vẻ!*
