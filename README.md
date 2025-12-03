@@ -15,9 +15,11 @@
 
 ### ⬇️ Tải Về (Download)
 
-Bạn có thể tải xuống gói cài đặt tự động đóng gói từ mã nguồn mới nhất tại đây:
+Bản việt hóa có font tiếng việt đấy đủ:
+> **[BẤM ĐỂ TẢI VỀ (Bản đã việt hóa font)](https://drive.google.com/file/d/1ixkmJIKD5fVNKmdRyewpxKmLbtk_nMLf/view?usp=sharing)**
 
-> **[BẤM ĐỂ TẢI VỀ (Mall_Simulator_Viet_Hoa.zip)](https://github.com/dunngx06/Mall_Simulator_Viet_Hoa/archive/refs/heads/main.zip)**
+Bản chưa có font chữ tiếng việt:
+> **[BẤM ĐỂ TẢI VỀ (Chưa việt hóa font)](https://github.com/dunngx06/Mall_Simulator_Viet_Hoa/archive/refs/heads/main.zip)**
 
 ---
 
