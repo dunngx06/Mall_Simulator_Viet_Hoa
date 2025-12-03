@@ -1,3 +1,11 @@
+### ⬇️ Tải Về (Download)
+
+Bản việt hóa có font tiếng việt đấy đủ:
+> **[BẤM ĐỂ TẢI VỀ (Bản đã việt hóa font)](https://drive.google.com/file/d/1ixkmJIKD5fVNKmdRyewpxKmLbtk_nMLf/view?usp=sharing)**
+
+Bản chưa có font chữ tiếng việt:
+> **[BẤM ĐỂ TẢI VỀ (Chưa việt hóa font)](https://github.com/dunngx06/Mall_Simulator_Viet_Hoa/archive/refs/heads/main.zip)**
+
 # Mall Simulator - Gói Ngôn Ngữ Việt Hóa Tiếng Việt
 
 **Phiên bản:** 1.0  
@@ -10,16 +18,6 @@
 Đây là bản Việt hóa cộng đồng cho tựa game **Mall Simulator**. Dự án được thực hiện nhằm xóa bỏ rào cản ngôn ngữ, giúp người chơi Việt Nam dễ dàng tiếp cận các cơ chế quản lý phức tạp trong game.
 
 > **Lưu ý:** Bản dịch này không thay đổi mã nguồn gốc của game (gameplay), chỉ thay thế hiển thị ngôn ngữ.
-
----
-
-### ⬇️ Tải Về (Download)
-
-Bản việt hóa có font tiếng việt đấy đủ:
-> **[BẤM ĐỂ TẢI VỀ (Bản đã việt hóa font)](https://drive.google.com/file/d/1ixkmJIKD5fVNKmdRyewpxKmLbtk_nMLf/view?usp=sharing)**
-
-Bản chưa có font chữ tiếng việt:
-> **[BẤM ĐỂ TẢI VỀ (Chưa việt hóa font)](https://github.com/dunngx06/Mall_Simulator_Viet_Hoa/archive/refs/heads/main.zip)**
 
 ---
 
